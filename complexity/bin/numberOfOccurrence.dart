@@ -1,8 +1,11 @@
 void main() {
   List<String> multipleValues = ["a", "a", "b", "c", "d", "c", "c", "e", "f"];
+  print(numberOfOccurrence(multipleValues));
+}
+
+Map<dynamic, dynamic> numberOfOccurrence(List<String> multipleValues) {
   var map = {};
   var distinctIds = multipleValues.toSet().toList();
-
   for (var value in multipleValues) {
     if (map.containsKey(value)) {
       map[value] += 1;
@@ -10,8 +13,6 @@ void main() {
       map[value] = 1;
     }
   }
-
-  print(map);
-  print(map.keys.toList());
   print(distinctIds);
+  return map;
 }
