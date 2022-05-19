@@ -10,5 +10,6 @@ int sumFromOneTo(int n) {
 }
 
 int betterSumFromOneTo(int n) {
-  return n * (n + 1) ~/ 2;
+  var median = (n + 1) ~/ 2;
+  return n * median;
 }

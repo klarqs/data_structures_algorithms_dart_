@@ -23,6 +23,8 @@ void main(List<String> arguments) {
   final time1 = end1.difference(start1);
   print(sum1);
   print(time1);
+
+  print(fillList(50));
 }
 
 // Constant Time
@@ -84,4 +86,8 @@ bool betterNaiveContains(int value, List<int> list) {
     }
   }
   return false;
+}
+
+List<String> fillList(int length) {
+  return List.filled(length, 'a');
 }
