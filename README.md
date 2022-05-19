@@ -4,9 +4,11 @@
 
 - Algorithms, on the other hand, are a set of operations that complete a task. This can be a sorting algorithm that moves data around to put it in order. Or it can be an algorithm that compresses an 8K picture to a manageable size. Algorithms are essential to software, and many have been created to act as building blocks for useful programs.
 
+
+
 ## Key Points ⚡️
 
-### - Complexity
+### ` Complexity
 
 - Time complexity is a measure of the time required to run an algorithm as the input size increases.
 - You should know about constant time, logarithmic time, linear time, quadratic time and quasilinear time and be able to order them by cost.
