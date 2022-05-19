@@ -1,4 +1,4 @@
-### Introduction
+# Introduction
 
 - Data structures are a well-studied discipline, and the concepts are language agnostic; A data structure from C is functionally and conceptually identical to the same data structure in any other language, such as Dart. At the same time, the high- level expressiveness of Dart makes it an ideal choice for learning these core concepts without sacrificing too much performance.
 
