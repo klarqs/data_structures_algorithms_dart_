@@ -1,6 +1,6 @@
 # Key Points
 
-### Complexity
+## Complexity
 
 - Time complexity is a measure of the time required to run an algorithm as the input size increases.
 - You should know about constant time, logarithmic time, linear time, quadratic time and quasilinear time and be able to order them by cost.
@@ -11,7 +11,7 @@ complexity.
 - For small data sets, time complexity is usually irrelevant. A quasilinear algorithm can be slower than a quadratic algorithm.
 
 
-### Basic Data Structures
+## Basic Data Structures
 
 - Every data structure has advantages and disadvantages. Knowing them is key to writing performant software.
 - Functions such as List.insert have characteristics that can cripple performance when used haphazardly. If you find yourself needing to use insert frequently with indices near the beginning of the list, you may want to consider a different data structure, such as a linked list.
