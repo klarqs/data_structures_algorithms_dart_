@@ -4,7 +4,7 @@
 
 - **Algorithms**, on the other hand, are a set of operations that complete a task. This can be a sorting algorithm that moves data around to put it in order. Or it can be an algorithm that compresses an 8K picture to a manageable size. Algorithms are essential to software, and many have been created to act as building blocks for useful programs.
 
-<br />
+<!-- <br /> -->
 
 ## Key Points ⚡️
 
