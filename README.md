@@ -31,3 +31,9 @@ complexity.
 - Despite being so simple, the stack is a key data structure for many problems.
 - The only two essential operations for a stack are ***push*** for adding elements and ***pop*** for removing elements.
 - push and pop are both constant-time operations.
+
+### _Linked List_
+
+- Linked lists are linear and unidirectional. As soon as you move a reference from one node to another, you can’t go back.
+- Linked lists have O(1) time complexity for head first insertions, whereas standard lists have O(n) time complexity for head-first insertions.
+- Implementing the Dart Iterable interface allows you to loop through the elements of a collection as well as offering a host of other helpful methods.
