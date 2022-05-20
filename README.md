@@ -25,7 +25,7 @@ complexity.
 - Map sacrifices the ability to access elements by ordered index but has fast insertion and retrieval.
 - Set guarantees uniqueness in a collection of values. It’s optimized for speed, and like Map, abandons the ability to access elements by ordered index.
 
-### _Stacks_
+#### _Stacks_
 
 - A stack is a ***LIFO***, last-in first-out, data structure.
 - Despite being so simple, the stack is a key data structure for many problems.
