@@ -32,7 +32,7 @@ complexity.
 - The only two essential operations for a stack are ***push*** for adding elements and ***pop*** for removing elements.
 - push and pop are both constant-time operations.
 
-### _Linked List_
+#### _Linked List_
 
 - Linked lists are linear and unidirectional. As soon as you move a reference from one node to another, you can’t go back.
 - Linked lists have O(1) time complexity for head first insertions, whereas standard lists have O(n) time complexity for head-first insertions.
