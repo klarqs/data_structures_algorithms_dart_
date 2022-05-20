@@ -8,7 +8,7 @@
 
 ## _Key Points_ ⚡️
 
-### Complexity
+## Complexity
 
 - ***Time complexity*** is a measure of the time required to run an algorithm as the input size increases.
 - You should know about constant time, logarithmic time, linear time, quadratic time and quasilinear time and be able to order them by cost.
