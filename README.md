@@ -18,7 +18,7 @@ complexity.
 - Time and space complexity are high-level measures of scalability; they do not measure the actual speed of the algorithm itself.
 - For small data sets, time complexity is usually irrelevant. A quasilinear algorithm can be slower than a quadratic algorithm.
 
-### _Basic Data Structures_
+#### _Basic Data Structures_
 
 - Every data structure has advantages and disadvantages. Knowing them is key to writing performant software.
 - Functions such as List.insert have characteristics that can cripple performance when used haphazardly. If you find yourself needing to use insert frequently with indices near the beginning of the list, you may want to consider a different data structure, such as a linked list.
