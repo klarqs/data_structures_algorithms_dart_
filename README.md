@@ -17,7 +17,6 @@
 complexity.
 - Time and space complexity are high-level measures of scalability; they do not measure the actual speed of the algorithm itself.
 - For small data sets, time complexity is usually irrelevant. A quasilinear algorithm can be slower than a quadratic algorithm.
-<br />
 
 ### _Basic Data Structures_
 
@@ -25,7 +24,6 @@ complexity.
 - Functions such as List.insert have characteristics that can cripple performance when used haphazardly. If you find yourself needing to use insert frequently with indices near the beginning of the list, you may want to consider a different data structure, such as a linked list.
 - Map sacrifices the ability to access elements by ordered index but has fast insertion and retrieval.
 - Set guarantees uniqueness in a collection of values. It’s optimized for speed, and like Map, abandons the ability to access elements by ordered index.
-<br />
 
 ### _Stacks_
 
