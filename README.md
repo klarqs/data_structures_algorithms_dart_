@@ -1,6 +1,6 @@
 # Data Structures & Algorithms in Dart 🚀
 
-## Introduction
+## _Introduction_
 
 - **Data structures** are a well-studied discipline, and the concepts are language agnostic; A data structure from C is functionally and conceptually identical to the same data structure in any other language, such as Dart. At the same time, the high- level expressiveness of Dart makes it an ideal choice for learning these core concepts without sacrificing too much performance.
 
@@ -8,9 +8,9 @@
 
 <br />
 
-## Key Points ⚡️
+## _Key Points_ ⚡️
 
-### _Complexity_
+### Complexity
 
 - ***Time complexity*** is a measure of the time required to run an algorithm as the input size increases.
 - You should know about constant time, logarithmic time, linear time, quadratic time and quasilinear time and be able to order them by cost.
@@ -20,7 +20,7 @@ complexity.
 - Time and space complexity are high-level measures of scalability; they do not measure the actual speed of the algorithm itself.
 - For small data sets, time complexity is usually irrelevant. A quasilinear algorithm can be slower than a quadratic algorithm.
 
-#### _Basic Data Structures_
+### Basic Data Structures
 
 - Every data structure has advantages and disadvantages. Knowing them is key to writing performant software.
 - Functions such as List.insert have characteristics that can cripple performance when used haphazardly. If you find yourself needing to use insert frequently with indices near the beginning of the list, you may want to consider a different data structure, such as a linked list.
