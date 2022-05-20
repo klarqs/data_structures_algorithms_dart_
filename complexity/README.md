@@ -1,4 +1,4 @@
-<!-- ### Key Points ⚡️
+<!-- ### Key Points ⚡️ -->
 
 - Time complexity is a measure of the time required to run an algorithm as the input size increases.
 - You should know about constant time, logarithmic time, linear time, quadratic time and quasilinear time and be able to order them by cost.
@@ -7,4 +7,4 @@
 complexity.
 - Time and space complexity are high-level measures of scalability; they do not measure the actual speed of the algorithm itself.
 - For small data sets, time complexity is usually irrelevant. A quasilinear algorithm can be slower than a quadratic algorithm.
- -->
+
