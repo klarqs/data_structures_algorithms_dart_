@@ -25,3 +25,11 @@ complexity.
 - Functions such as List.insert have characteristics that can cripple performance when used haphazardly. If you find yourself needing to use insert frequently with indices near the beginning of the list, you may want to consider a different data structure, such as a linked list.
 - Map sacrifices the ability to access elements by ordered index but has fast insertion and retrieval.
 - Set guarantees uniqueness in a collection of values. It’s optimized for speed, and like Map, abandons the ability to access elements by ordered index.
+
+
+### _Stacks_
+
+• A stack is a ***LIFO***, last-in first-out, data structure.
+• Despite being so simple, the stack is a key data structure for many problems.
+• The only two essential operations for a stack are ***push*** for adding elements and ***pop*** for removing elements.
+• push and pop are both constant-time operations.
