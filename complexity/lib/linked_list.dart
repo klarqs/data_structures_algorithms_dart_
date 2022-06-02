@@ -16,7 +16,10 @@ class LinkedList<E> {
   bool get isEmpty => head == null;
 
   void push(E value) {
-    head = Node(value: value, next: head);
+    head = Node(
+      value: value, 
+      next: head,
+    );
     tail ??= head;
   }
 
