@@ -29,3 +29,4 @@ class LinkedList<E> {
     return head.toString();
   }
 }
+
